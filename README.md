@@ -1,2 +1,33 @@
-# git_add_progress
-git-add-progress – A real-time progress tracker for git add ., showing staging progress, percentage completion, and ETA with a dynamic progress bar. Ideal for large repositories where git add . takes time. Lightweight, Bash-only, and cross-platform. 🚀 Never guess how long `git add .` will take again!
+# git-add-progress ⏳
+
+**Real-time `git add .` progress tracker with ETA (Estimated Time Remaining) & Progress Bar**
+
+🚀 **git-add-progress** is a simple yet powerful **Bash script** that helps track the progress of `git add .` in **real-time**, showing the percentage completed, estimated time remaining (**ETA**), and a **progress bar**. 
+
+### 🏆 **Why Use This Script?**
+When working with large Git repositories containing **thousands of files**, the standard `git add .` command does not show progress. This leads to uncertainty about:
+- ⏳ **How long will it take to finish?**
+- 📊 **How many files have been staged?**
+- 🚀 **How can I track progress without slowing down Git?**
+
+This script solves all of these problems by providing **live updates** while files are being staged.
+
+---
+
+## 🎯 **Features**
+✅ **Real-time progress tracking** while running `git add .`  
+✅ **Displays percentage completion** and files staged vs. total files  
+✅ **Accurate ETA (Estimated Time Remaining)** based on actual elapsed time  
+✅ **No slowdown** – Runs at full Git speed without artificial delays  
+✅ **Works on large repositories** with thousands of files  
+✅ **Lightweight & cross-platform** – Works on Linux, macOS, and Windows (via WSL)  
+
+---
+
+## 📊 Example Output
+```bash
+Total files to be staged: 3421
+Starting git add...
+[########----------------------------------] 20% (684 / 3421) | ETA: 00:05:12
+All files have been staged successfully in 00:07:35!
+```
