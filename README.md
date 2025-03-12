@@ -31,3 +31,7 @@ Starting git add...
 [########----------------------------------] 20% (684 / 3421) | ETA: 00:05:12
 All files have been staged successfully in 00:07:35!
 ```
+
+## 💡 Made with ❤️ using ChatGPT <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT Logo" width="20">
+
+This project was crafted with insights and assistance from **ChatGPT**. 🤖✨  
