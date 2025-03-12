@@ -33,5 +33,8 @@ All files have been staged successfully in 00:07:35!
 ```
 
 ## 💡 Made with ❤️ using ChatGPT <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT Logo" width="20">
-
 This project was crafted with insights and assistance from **ChatGPT**. 🤖✨  
+
+---
+[![Buy Me a Coffee](https://github.com/user-attachments/assets/eeb39ae4-ad83-4f5c-9368-095d8034a559)](buymeacoffee.com/nachikamod)
+
