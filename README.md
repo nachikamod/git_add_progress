@@ -36,5 +36,5 @@ All files have been staged successfully in 00:07:35!
 This project was crafted with insights and assistance from **ChatGPT**. 🤖✨  
 
 ---
-[![Buy Me a Coffee](https://github.com/user-attachments/assets/eeb39ae4-ad83-4f5c-9368-095d8034a559)](buymeacoffee.com/nachikamod)
+[![Buy Me a Coffee](https://github.com/user-attachments/assets/eeb39ae4-ad83-4f5c-9368-095d8034a559)](https://buymeacoffee.com/nachikamod)
 
